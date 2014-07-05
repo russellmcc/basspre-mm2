@@ -1665,7 +1665,7 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="NAME" x="15.748" y="2.54" size="0.8128" layer="25" rot="R90"/>
 <attribute name="VALUE" x="11.938" y="5.969" size="1.27" layer="27" rot="R270"/>
 </element>
-<element name="C108" library="resistor" package="C0603" value="120pf" x="11.43" y="5.08" smashed="yes" rot="R270">
+<element name="C108" library="resistor" package="C0603" value="47nF" x="11.43" y="5.08" smashed="yes" rot="R270">
 <attribute name="NAME" x="12.954" y="2.54" size="0.8128" layer="25" rot="R90"/>
 <attribute name="VALUE" x="9.398" y="5.969" size="1.27" layer="27" rot="R270"/>
 </element>

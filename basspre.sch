@@ -6539,7 +6539,7 @@ W = angled&lt;p&gt;
 <part name="C104" library="resistor" deviceset="C-US" device="C0603" value="1uF"/>
 <part name="C105" library="resistor" deviceset="C-US" device="C0603" value="120pf"/>
 <part name="R103" library="resistor" deviceset="R-US_" device="R0603" value="100K"/>
-<part name="C108" library="resistor" deviceset="C-US" device="C0603" value="120pf"/>
+<part name="C108" library="resistor" deviceset="C-US" device="C0603" value="47nF"/>
 <part name="C102" library="resistor" deviceset="C-US" device="C0603" value="1uF"/>
 <part name="R102" library="resistor" deviceset="R-US_" device="R0603" value="220K"/>
 <part name="C103" library="resistor" deviceset="C-US" device="C0603" value="1800 pF"/>
