@@ -1,4 +1,4 @@
-# Basspre MM-2
+# Basspre MM2
 
 WARNING - currently untested!
 
