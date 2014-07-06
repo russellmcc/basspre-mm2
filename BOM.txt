@@ -4,8 +4,8 @@ Capacitors
 1x 0603 1800pF C0G 5% (C103)
 1x 0603 47nF X7R 10% (C108)
 4x 0603 .1uF X7R 10% (C201, C202, C203, C204)
-3x 0805 1uF X7R 5% (C101, C102, C107)
-1x 0603 10uF xV xType (C109)
+3x 0805 1uF X7R 10% (C101, C102, C107)
+1x 0805 10uF 10V X5R 10% (C109)
 
 Resistors
 1x 0603 10K 1% (R105)
@@ -14,7 +14,8 @@ Resistors
 3x 0603 1.5M 5% (R101, R104, R107)
 
 Connectors
-1x 9x1 pin .1 inch header
+1x 10x1 pin .1 inch header (for easy hook-up - optional)
+10x jumper wire (for easy hook-up - optional)
 
 ICs
 1x SOIC-8 TLE2426 rail splitter
@@ -22,5 +23,8 @@ ICs
 
 Potentiometers
 1x 25K log (volume)
-1x 50K log (bass)
-1x 1M reverse log (treble)
+1x 50K log (bass) (10K is flat, 0 is cut, 50K is boost)
+1x 1M reverse log (treble) (Treble1-2: 500K is flat, 0 is cut, 1M is boost)
+
+Link to mouser order (DOES NOT INCLUDE POTS - choose pots that work for you!)
+https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=39f156a9a5

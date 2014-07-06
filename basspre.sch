@@ -9782,7 +9782,7 @@ Source: AVX .. aphvc.pdf</description>
 <part name="P+4" library="supply1" deviceset="V+" device=""/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="R105" library="resistor" deviceset="R-US_" device="R0603" value="10K"/>
-<part name="C109" library="resistor" deviceset="C-US" device="C0603" value="10uF"/>
+<part name="C109" library="rcl" deviceset="C-US" device="C0805" value="10uF"/>
 <part name="R106" library="resistor" deviceset="R-US_" device="R0603" value="100K"/>
 <part name="U1" library="russell_random" deviceset="LM4250" device=""/>
 <part name="R107" library="resistor" deviceset="R-US_" device="R0603" value="1.5M"/>
