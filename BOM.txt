@@ -11,15 +11,14 @@ Resistors
 1x 0603 10K 1% (R105)
 2x 0603 100K 1% (R103, R106)
 1x 0603 220K 1% (R102)
-2x 0603 1.5M 5% (R101, R104)
+3x 0603 1.5M 5% (R101, R104, R107)
 
 Connectors
 1x 9x1 pin .1 inch header
 
 ICs
 1x SOIC-8 TLE2426 rail splitter
-1x SOIC-8 LF351D op amp
-1x SOIC-8 LM4250 op amp
+2x SOIC-8 LM4250 op amp
 
 Potentiometers
 1x 25K log (volume)
