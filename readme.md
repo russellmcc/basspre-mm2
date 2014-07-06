@@ -2,10 +2,14 @@
 
 WARNING - currently untested!
 
-This is a bass pre-amp meant for internal use in active basses with humbucker
+This is an open-source bass pre-amp meant for internal use in active basses with humbucker
 inputs.  The circuit is a tribute to the classic 2-band pre-amp used in the
-original MusicMan Stingray, with a few modifications.  The pre-amp has a
-buffered input to maintain very low thermal noise, it uses a rail-splitter IC
+original MusicMan Stingray, with a few modifications.  
+
+Board layout and schematic files are in EAGLE format, while the simulations are
+done in LT-SPICE.
+
+The pre-amp has a buffered input to maintain very low thermal noise, it uses a rail-splitter IC
 instead of a resistor divider to ensure clean tone with very low power, and
 the voicing is modified to be less treble-heavy to ensure low EM interference.
 
