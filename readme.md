@@ -1,5 +1,7 @@
 # Basspre MM-2
 
+WARNING - currently untested!
+
 This is a bass pre-amp meant for internal use in active basses with humbucker
 inputs.  The circuit is a tribute to the classic 2-band pre-amp used in the
 original MusicMan Stingray, with a few modifications.  The pre-amp has a
@@ -11,28 +13,32 @@ Here's some simulations of the voicing at various pot positions:
 
 ## Flat
 
-![flat](flat.png)
+![flat](graphs/flat.png)
 
 ## Bass Cut
 
-![bass cut](bass cut.png)
+![bass cut](graphs/bass cut.png)
 
 ## Bass Boost
 
-![bass boost](bass boost.png)
+![bass boost](graphs/bass boost.png)
 
 ## Treble Cut
 
-![treble cut](treble cut.png)
+![treble cut](graphs/treble cut.png)
 
 ## Treble Boost
 
-![treble boost](treble boost.png)
+![treble boost](graphs/treble boost.png)
 
 ## Both Boost
 
-![both boost](both boost.png)
+![both boost](graphs/both boost.png)
 
 ## Both Cut
 
-![both cut](both cut.png)
+![both cut](graphs/both cut.png)
+
+Copyright 2014, Russell McClellan, all rights reserved.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Basspre MM-2</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="russellmcc.com" property="cc:attributionName" rel="cc:attributionURL">Russell McClellan</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
