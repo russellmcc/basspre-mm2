@@ -4,10 +4,12 @@ Capacitors
 1x 0603 1800pF xV xType (C103)
 1x 0603 47nF xV xType (C108)
 4x 0603 .1uF xV xType (C201, C202, C203, C204)
-4x 0603 1uF xV xType (C101, C102, C104, C107)
+3x 0603 1uF xV xType (C101, C102, C107)
+1x 0603 10uF xV xType (C109)
 
 Resistors
-1x 0603 100K 1% (R103)
+1x 0603 10K 1% (R105)
+2x 0603 100K 1% (R103, R106)
 1x 0603 220K 1% (R102)
 2x 0603 1.5M 5% (R101, R104)
 
@@ -21,5 +23,5 @@ ICs
 
 Potentiometers
 1x 25K log (volume)
-1x 100K log (bass)
+1x 50K log (bass)
 1x 1M reverse log (treble)
