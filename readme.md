@@ -1,10 +1,8 @@
 # Basspre MM2
 
-WARNING - currently untested!
-
 This is an open-source bass pre-amp meant for internal use in active basses with humbucker
 inputs.  The circuit is a tribute to the classic 2-band pre-amp used in the
-original MusicMan Stingray, with a few modifications.  
+original MusicMan Stingray, with a few modifications.
 
 Board layout and schematic files are in EAGLE format, while the simulations are
 done in LT-SPICE.
@@ -13,35 +11,65 @@ The pre-amp has a buffered input to maintain very low thermal noise, it uses a r
 instead of a resistor divider to ensure clean tone with very low power, and
 the voicing is modified to be less treble-heavy to ensure low EM interference.
 
-Here's some simulations of the voicing at various pot positions:
+Here's some simulations and tests of the voicing at various pot positions:
 
 ## Flat
+
+### Simulation
 
 ![flat](graphs/flat.png)
 
 ## Bass Cut
 
+### Simulation
+
 ![bass cut](graphs/bass cut.png)
 
 ## Bass Boost
 
+### Simulation
+
 ![bass boost](graphs/bass boost.png)
 
+### Test
+
+![bass boost](tests/bass boost plot.png)
+
 ## Treble Cut
+
+### Simulation
 
 ![treble cut](graphs/treble cut.png)
 
 ## Treble Boost
 
+### Simulation
+
 ![treble boost](graphs/treble boost.png)
+
+### Test
+
+![treble boost](tests/treb boost plot.png)
 
 ## Both Boost
 
+### Simulation
+
 ![both boost](graphs/both boost.png)
+
+### Test
+
+![both boost](tests/both boost plot.png)
 
 ## Both Cut
 
+### Simulation
+
 ![both cut](graphs/both cut.png)
+
+### Test
+
+![both cut](tests/both cut plot.png)
 
 Copyright 2014, Russell McClellan, all rights reserved.
 
