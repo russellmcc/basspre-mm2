@@ -13,6 +13,10 @@ the voicing is modified to be less treble-heavy to ensure low EM interference.
 
 Here's some simulations and tests of the voicing at various pot positions:
 
+## Schematic
+
+![schematic](schem.pdf)
+
 ## Flat
 
 ### Simulation
