@@ -11,11 +11,10 @@ The pre-amp has a buffered input to maintain very low thermal noise, it uses a r
 instead of a resistor divider to ensure clean tone with very low power, and
 the voicing is modified to be less treble-heavy to ensure low EM interference.
 
+[PDF Schematic](schem.pdf)
+
+
 Here's some simulations and tests of the voicing at various pot positions:
-
-## Schematic
-
-![schematic](schem.pdf)
 
 ## Flat
 
