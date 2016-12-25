@@ -13,6 +13,7 @@ the voicing is modified to be less treble-heavy to ensure low EM interference.
 
 [PDF Schematic](schem.pdf)
 
+[OSH Park Link](https://oshpark.com/shared_projects/A13YAxJk)
 
 Here's some simulations and tests of the voicing at various pot positions:
 
